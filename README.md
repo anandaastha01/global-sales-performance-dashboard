@@ -5,10 +5,15 @@ The dashboard highlights regional performance, profitability, shipping trends, a
 global-sales-performance-dashboard
 
 ├── global_sales_data.csv # Raw dataset 
+
 ├── cleaned_global_sales.csv # Post-EDA cleaned dataset (used in Power BI)
+
 ├── global_salesdata_analysis.pbix # Power BI dashboard file
+
 ├── Gloabal_Sales_DataAnalysis.ipynb  # Python Bsic EDA file
+
 ├── Presentation - Gsales_Dashboard_brief.pdf # Final project summary 
+
 └── README.md # This file
 # tools and technologies
    - Python (Pandas, Matplotlib, Seaborn) – for initial data inspection, cleaning & preprocessing
